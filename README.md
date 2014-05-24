@@ -1,4 +1,5 @@
 ZXing for iphone isolated
+Available on iOS 7.1.1(iPhone5) + Xcode 5.1.1.
 
 ----
 <img align="right" src="https://raw.github.com/wiki/zxing/zxing/zxing-logo.png"/>
